@@ -47,3 +47,32 @@
 - git remote add origin <link>
 - git push origin master
 
+
+### HTML
+
+- Hyper Text Markup Language
+- Semantic Elements
+	- header
+	- section
+	- article
+	- aside
+	- footer
+	- table
+
+- Block Level Elements
+	- h1 to h6
+	- p 
+	- div
+	- all semantic elements
+	- text with start from newline
+
+- Inline Elements
+	- span
+	- img
+	- a
+	- nav
+	- form
+	- input
+	- textarea
+	- legend
+
