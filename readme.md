@@ -44,4 +44,6 @@
 - do git configuration(set )
 - commit data with commit message
 	- git commit -m "msg" 
+- git remote add origin <link>
+- git push origin master
 
