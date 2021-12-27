@@ -75,4 +75,11 @@
 	- input
 	- textarea
 	- legend
+	- nav
+	- sub
+	- sup
+
+### Reference Links
+- flaticon.com
+
 
