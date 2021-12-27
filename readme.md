@@ -43,4 +43,5 @@
 - git status
 - do git configuration(set )
 - commit data with commit message
+	- git commit -m "msg" 
 
