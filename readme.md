@@ -108,3 +108,10 @@ selector{
 		css properties
 }
 '''
+#### Selectors
+ + simple selectors
+	- by element name
+	- grouping selector(,)
+	- class selector
+	- id selector
+	
