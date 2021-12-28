@@ -103,11 +103,11 @@ Task:
 
 + Syntax of Css
 
-'''
-selector{
-		css properties
-}
-'''
+	'''
+	selector{
+			css properties
+	}
+	'''
 #### Selectors
  + simple selectors
 	- by element name
