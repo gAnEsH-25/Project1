@@ -83,6 +83,7 @@
 - flaticon
 - html color codes
 - webaim
+- freesvg.org
 
 Task:
 ====
@@ -110,6 +111,7 @@ Task:
 	'''
 #### Selectors
  + simple selectors
+	- universal selector(*)
 	- by element name
 	- grouping selector(,)
 	- class selector
@@ -124,3 +126,15 @@ Task:
 + pseudo class selector
 + Pseudo element selector
 + Attribute selector
+
+### Box Model
+
++ margin
++ border
++ padding
+	- padding : 10px (for all adajacent sides)
+	- padding : 10px 30px (10px for top & bottom and 30px for right & left)
+	- padding : 10px 30px 50px (10px for top ,30px for right & left and 50px for bottom)
+	- padding : 10px 30px 4px 50px (top,right,bottom,left)
++ width
+1rem=16px
