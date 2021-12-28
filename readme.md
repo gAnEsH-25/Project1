@@ -123,8 +123,8 @@ Task:
 	- Adjacent sibling selector(+)
 	- General sibling selector(~)
 
-+ pseudo class selector
-+ Pseudo element selector
++ pseudo class selector(:)
++ Pseudo element selector(::)
 + Attribute selector
 
 ### Box Model
@@ -138,3 +138,35 @@ Task:
 	- padding : 10px 30px 4px 50px (top,right,bottom,left)
 + width
 1rem=16px
+
+### task 2
+
++ index page
++ registration
++ login
+
+### Respnsive Web Design
+ - flex box
+	- display
+		+ flex
+			- flex-wrap
+			- justiy-content
+			- flex-direction
+			- flex-flow
+
+### Flex-Box
+
+- display 
+	+ none
+	+ inline
+	+ block
+	+ inline - block
+- position
+	+ staitc
+	+ relative
+	+ absolute
+	+ fixed
+	+ sticky
+- algin-content
+- algin-items
+- align-self
