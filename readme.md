@@ -79,7 +79,32 @@
 	- sub
 	- sup
 
-### Reference Links
-- flaticon.com
+### Reference websites for resources
+- flaticon
+- html color codes
+- webaim
 
+Task:
+====
 
+- audio
+- video
+- canvas
+- progress
+- meter
+- datalist
+- select element
+
+### CSS (Cascading Style Sheets)
+
+- Inline 
+- Internal
+- External
+
++ Syntax of Css
+
+'''
+selector{
+		css properties
+}
+'''
