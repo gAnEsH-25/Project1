@@ -114,4 +114,13 @@ selector{
 	- grouping selector(,)
 	- class selector
 	- id selector
-	
+
++ Combinators
+	- descendant selector ( )
+	- child selector (>)
+	- Adjacent sibling selector(+)
+	- General sibling selector(~)
+
++ pseudo class selector
++ Pseudo element selector
++ Attribute selector
