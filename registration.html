@@ -12,8 +12,8 @@
         input{
             padding-left: 100px;
             padding-top: 10px; 
-             text-align: left; 
-            margin-left: 20px;
+            text-align: left;
+            /* margin-left: 20px; */
             background-color: lightslategray;
         }
         span{
@@ -23,7 +23,14 @@
         .list{
             display: inline-flex;
         }
-        
+        button{
+            margin-top: 50px; 
+            /* margin-left: 350px; */
+            al
+        }
+        span{
+            padding-left: 10px;
+        }
     </style> 
 </head>
 <body>
@@ -37,28 +44,35 @@
     </label>
     
     <div class="list">
-        <input type="text" placeholder="" required>
-        <br>
         <span>First Name</span>
+        <input type="text" placeholder="" required>
+        
+        
 
     </div>
     <div class="list">
+        <span>Middle Name</span>
         <input type="text" placeholder="">
         <br>
-        <span>Middle Name</span>
+        
     </div>
     
     <div class="list">
+        <span>Last Name</span>
         <input type="text" placeholder="" required>
         <br>
-        <span>Last Name</span>
+       
     </div>
     <br>
     <span style="background-color: salmon;">Date of Birth </span>
-    <input style="margin-top: 20px;" type="date" placeholder=" dd-mm-yyyy">
-
+    <input style="margin-top: 20px;" type="date" placeholder=" dd-mm-yyyy" required>
+    <br>
+    <center>
+    <button >
+        <a href="./Form.html">Register</a>
+    </button>
     
-    
+    </center>
     
     
 </body>
