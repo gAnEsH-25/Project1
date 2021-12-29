@@ -5,16 +5,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Form Fields</title>
+    <style> 
+         /* input { 
+             padding: 20px; 
+         } */
+     </style>
+     
 </head>
 <body>
     <form action="index.html" method="get">
         <label for="uname">Username</label>
         <input type="text" name="uname" id="uname" placeholder="Username" required>
         <br>
+        <label for="pword">Mail</label>
+        <input type="email" placeholder="Mail" required>
+        <br>
         <label for="pword">Password</label>
         <input type="password" id=pword placeholder="Password" required>
-        <br>
-        <input type="email" placeholder="Mail" required>
         <input type="submit" value="Login">
     </form>
 </body>
