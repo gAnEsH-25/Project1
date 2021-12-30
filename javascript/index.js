@@ -1,4 +1,3 @@
-"use strict"
 //    const name="waste"
 //    var age="18"
 //    if(age>10){
@@ -68,11 +67,62 @@
 // let [a,...data]=emp
 // console.log(data)
 
-let emp={
-         name:"sai",
-         phno:227890,
-         post:"manager"
-     }
-      let {name,...rt}=emp
-     console.log(name)
-     console.log(rt)
+// let emp={
+//          name:"sai",
+//          phno:227890,
+//          post:"manager"
+//      }
+//       let {name,...rt}=emp
+//      console.log(name)
+//      console.log(rt)
+
+// Functions
+
+// let demo= function(4,5){
+
+//      return x+y
+// }
+// console.log(demo(3,4))
+
+
+// setTimeout(function(){
+//     console.log("Ganesh is good boy")
+// },5000)
+
+// Arrow function
+
+// let demo= (x,y) =>{
+//     return x*y
+// }
+// console.log(demo(3,4))
+
+
+let wo=["ganesh","vinay","poorna","kushal","likhil"]
+
+// for(let i=0;i<wo.length;i++){
+//     console.log(wo[i])
+// }
+
+// for( let i in wo){
+//     console.log(i)
+// }
+
+
+// for( let i of wo){
+//     console.log(i)
+// }
+
+// for-each
+
+// r=wo.forEach(function(element,index){
+   
+// console.log(element+"ok") 
+// })
+
+// map function
+
+
+//  let r=wo.map(function(element,index){
+//     return element+"k"+index
+// })
+// console.log(r)

@@ -237,7 +237,7 @@
 		+ 
 		 ```
 		 ...parameter
-		  ```
+		 ```
 
 + Datatypes
 	- Number
@@ -251,7 +251,8 @@
 		{
 			name:"vvvv"
 		}
-	- Arrray
+		```
+	- Arrray 
 	
 
 + Varibles
@@ -278,6 +279,69 @@
 
 
 + Destructing of array
+
++ function with function name
+	
+- ```
+  function demo(x,y){
+	  return x+y
+  }
+  demo()
+   ```
+- anomymous function
+ ```
+  let demo=function(x,y)
+  {
+	  return x+y
+  }
+ ```
+- Arrow function
+ ```
+ let demo= (x,y) =>
+
+ ```
++ for-in
++ for-of
++ forEach
+
+
+### DOM
+
+- Document Object Model
+- Document
+- history
+- window
+- navigator
+
++ DOM Methods
+	- getElementById()
+	- getElementsByClassName()
+	- querySelector
+	- innerText 
+	- textContent  
+	- append
+	- appendChild
+	- innerHTML
+	- setAttribute()
+	- classList
+	- style
+	- src
+
+
+### JSON
+
++ JavaScript Object Notation
+	- To exchange information between application and server 
+
+```
+{
+	"name":"Ganesh",
+	"age":20,
+	"salary":"Student",
+	"phno":6300899762
+}
+```
++ jax call or Promises(fetch API) or axios
 
 
 ### Reference websites for resources
