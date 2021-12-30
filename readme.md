@@ -88,11 +88,11 @@
 
 + Syntax of Css
 
-	'''
+	```
 	selector{
 			css properties
 	}
-	'''
+	```
 #### Selectors
  + simple selectors
 	- universal selector(*)
@@ -215,8 +215,71 @@
 	- background (bg-secondary)
 	- alrets(alret alret-primary)
 
+### JavaScript
 
++ In 1995 `Brenden Eich` introduced JavaScript (ES- 262)
++ JavaScript loosely toupled and dynamic language
++ JavaScript is text-based programming language and  we can use in client side and server side for dynamic web applications
+- ECMA-Script(european computer manufaturing assciation)(ES-1 to 11(except 4))
+	- let & const
+	- map() [for repeatation]
+	- arrow function
+	- classes
 	
+	- spread operator
+		+ to change array elements from one array to another
+		+ 
+		 ```
+		 ...variableName
+		 ```
+	- rest parameter
+		+ to handle function parameters
+		+ 
+		 ```
+		 ...parameter
+		  ```
+
++ Datatypes
+	- Number
+	- BigInt(2^53 - 1)
+	- String
+	- Booleam
+	- undefine
+	- Null
+	- Object
+		```
+		{
+			name:"vvvv"
+		}
+	- Arrray
+	
+
++ Varibles
+	- var,let & const
+	- scope
+		+ fuction level --> var
+		+ block level --> let & const
+	- Redefine
+	- Redeclare
+	- `typeof()`
+
+### Alerts
+
++ to generate notification
+	- alert
+	- prompt(to take input from the user)
+	- confrim
+
++ console statements 
+	-  `console.log()`
+	-  `console.info()`
+	-  `console.warn()`
+	-  `console.error()`
+
+
++ Destructing of array
+
+
 ### Reference websites for resources
 - flaticon
 - html color codes
