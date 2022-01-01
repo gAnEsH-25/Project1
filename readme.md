@@ -341,7 +341,119 @@
 	"phno":6300899762
 }
 ```
-+ jax call or Promises(fetch API) or axios
++ Ajax call or Promises(fetch API) or axios
+
+
+### ReactJS
+
+ ##### ReactJS features
+
++ It is a library
++ It follows component based Architecture
+	- Functiom Component
+	- Class Component
+	- Pure Component
+	- Higher Order Component
++ It Provides virtual DOM
++ It provides JFX(JavaScript )
++ Unidirectional data flow 
++ Single Page Application
+
+
++ Props
+	
+	- to pass data from one  component to another component we will use props
+	- props are immutable
+
+	+ Union Bank(Functional)
+		- AndhraBank (Functional)
+		- CorportionBank(Class)
+
++ States
+	- In react to maintain information we will use states
+	- we can maintain states in class component only(Before react 16.8 version)
+	- to take state in react,try to create constructor above render method and inside of class component
+	- use `rconst` sinpet
+	```
+	constructor(){
+		super();
+		this.state={
+
+		}
+	}
+	```
+	- to update the information in class component use `setState()` method
+	- to update the information in class component we have to follow component life cycle methods
+		- ``componentWillReceiveProps()`
+		- `componentWillMount()`
+		- `componentDidMount()`
+		- `ShouldComponentUpdate()`
+		- `componentWillUpdate()`
+		- `componentWillUnmount()`
+		- `componentDidUpdate()`
+
+### Hooks
+
++ from react16.8 Hooks are introduced
+- parent - child1 --> chhild2 --> child3
+- `useState()`
+- `useEffect()`
+- `useMemo()`
+- `useRef`
+- `useContext`
+
+### List Rendering
+
+### Event Handling & Form Handling
+
+- `onChange`
+- `onSubmit`
+- `preventDefault()`
+
+
+### Routing in React
+
++ To navigate (Route) from one component to another
+	- install react-router-dom package by using
+		`npm install react-router-dom`1
+	- `BrowserRouter`
+	- `Routes`
+	- `Route`
+	- `path`
+	- `element` 
+
++ Project Envirnoment setup
+	- Download VisualStudiocode
+	- Download Nodejs
+	- install nodejs and check versions of `node` and `npm` (node pack manager)
+		- `node -v`
+		- `npm -v`
+	- `webpack` and `babel`
+	- `create-react-app`
+		- `npm install create-react-app`
+			- `create-react-app projectname`
+	- `npx create-react-app appaname`
+
+
++ Index.gtml
++ index.js
++ 
++ Index Page
+	- nav.js
+	- body.js
+	- footer.js
+
+	+ Home.js
+		- nav
+		- body
+		- footer
+
+	+ Logiin.js
+	+ Register
+	+ About 
+	+ Comtact
+
+
 
 
 ### Reference websites for resources
